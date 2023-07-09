@@ -1,36 +1,33 @@
-# Olá, espero que esteja bem! 👋
+# Olá, Seja bem-vindo(a)!
 
 ## Sobre mim
-Sou um desenvolvedor júnior apaixonado por tecnologia e estudante de Ciência de Dados na Universidade Federal do Mato Grosso do Sul (UFMS). Minha paixão pela programação e o desejo de explorar novas tecnologias me impulsionam a buscar novos desafios para aprimorar minhas skills.
+Tenho Formação em Ciências Contábeis. Cursando Especialização em Controladoria e Finanças pela Universidade Federal do Ceará (UFC) e cursando Ciência de Dados na Universidade Federal do Mato Grosso do Sul (UFMS). Sou iniciante no mundo da programação com ávidez pela tecnologia e sua contribuição para sociedade.
 
-
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=soares-a&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soares-a&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ## Habilidades
-
-- 💻 Linguagens de programação: C, C#, C++, Java, Python, JavaScript
-- 🌐 Web Development: HTML, CSS, TypeScript
-- 📊 Banco de dados: SQL, PostgreSQL
-- 📱 Desenvolvimento móvel: Flutter
-- 🎨 Ferramentas de design: Figma
-- ♟️ Xadrez: Instrutor voluntário em um Centro de Referência em Assistência Social (CRAS)
+- 💻 Linguagens de programação: JavaScript, Python
+- 🌐 Web Development: HTML, CSS, React
+- 🎲 Banco de dados: SQL, PostgreSQL
 
 ## Educação e Certificações
-
+- 🎓 Estácio (FIC) - Ciências Contábeis
+- 🎓 Universidade Federal do Ceará (UFC) - Especialização em Controladoria e Finanças (Em andamento)
 - 🎓 Universidade Federal do Mato Grosso do Sul (UFMS) - Ciência de Dados (Em andamento)
-- 📚 Cursos e certificações em tecnologia em Harvard, MIT e ITA
+- 📚 Programação em Python – Udemy (Cursando)
+- 📚 Banco de Dados e SQL - Udemy (Cursando)
+- 📚 Tableau Básico ao Avançado – Udemy (Cursando)
+- 📚 Formação Dev Front-End – Alura
+- 📚 Liderança e Gestão de Pessoas - Udemy
+- 📚 Estatística – ADA Tech
+- 📚 Introdução a Linguagem Python - Udemy
+- 📚 Consultor Analista de ERP - Udemy
+- 📚 Formação Cientista de Dados – Udemy
+- 📚 Python Fundamentos para Análise Dados – Data Science Academy
+- 📚 Power Bi para Ciência de Dados – Data Science Academy
+- 📚 Big Data – Data Science Academy
+- 📚 Introdução Cientista de Dados – Data Science Academy
 
 ## Projetos
-
-- 🏆 Participação no hackathon do iFood (Top 5)
-- 🎨 Desenvolvimento de projetos com foco em criatividade e inovação
+- 🏆 Formação Front End Alura
 
 ## Contato
-
-- 📧 E-mail: [aassouza94@gmail.com](mailto:seuemail@gmail.com)
-- 💼 LinkedIn: [linkedin.com/andysouza94](https://www.linkedin.com/in/andysouza94)
-- 🌐 Portfólio: [em construção](https://www.seuportfolio.com)
-
-Vamos nos conectar e explorar como podemos criar soluções impactantes juntos!
-
-
+- 💼 Linkedin: [antonioerjunior](https://www.linkedin.com/in/antonioerjunior/)
