@@ -1,4 +1,4 @@
-# Olá, Seja bem-vindo(a)! 👋
+# Olá, Seja bem-vindo(a)!
 
 ## Sobre mim
 Tenho Formação em Ciências Contábeis. Cursando Especialização em Controladoria e Finanças pela Universidade Federal do Ceará (UFC) e cursando Ciência de Dados na Universidade Federal do Mato Grosso do Sul (UFMS). Sou iniciante no mundo da programação com ávidez pela tecnologia e sua contribuição para sociedade.
