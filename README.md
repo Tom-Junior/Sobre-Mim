@@ -5,7 +5,7 @@ Tenho Formação em Ciências Contábeis. Cursando Especialização em Controlad
 
 ## Habilidades
 - 💻 Linguagens de programação: JavaScript, Python
-- 🌐 Web Development: HTML, CSS
+- 🌐 Web Development: HTML, CSS, React
 - 🎲 Banco de dados: SQL, PostgreSQL
 
 ## Educação e Certificações
